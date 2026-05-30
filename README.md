@@ -11,6 +11,16 @@
   
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
+- <b>[Custom Network Firewall (on Raspberry Pi Homebrew Router)]
+   - [Implementing Firewall controls on homebrew router]
+   - Nmap Firewall Evasion Testing
+   - Port Scan Detection Lab
+   - Denial-of-Service Mitigation Testing
+   - Firewall Rule Validation
+   - DNS Filtering Effectiveness Testing
+   - Internal Network Segmentation Testing
+   - VPN Access Control Testing
+
 <h2>👨‍💻 Artificial Intelligence Penetration Testing Projects:</h2>
 
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
