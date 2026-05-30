@@ -2,9 +2,13 @@
 
 <h2>👨‍💻 Network Engineering Homelab Projects:</h2>
 
-- <b>Homebrew Raspberry Pi Router
-   - [Creating WAP from Raspberry Pi 5 on Raspbian OS]((https://github.com/Kin3o/Raspberry-Pi-Router-Home-Lab))
-
+- **<b>[Homebrew Raspberry Pi Router Lab](https://github.com/Kin3o/Raspberry-Pi-Router-Home-Lab)**
+   - [Creating WAP from Raspberry Pi 5 on Raspbian OS]
+   - [Network Troubleshooting]
+   - [Wireless Networking]
+   - [Linux Administration]
+   - [DHCP, DNS and NAT configuration]
+  
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
 <h2>👨‍💻 Artificial Intelligence Penetration Testing Projects:</h2>
