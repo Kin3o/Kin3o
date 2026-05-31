@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kineo! <br/><a href="https://github.com/Kin3o"></a> <a href="https://www.linkedin.com/in/kineo-doody-0b1719245">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Kineo! <br/><a href="https://github.com/Kin3o"></a> <a href="https://www.linkedin.com/in/kineo-doody-0b1719245">Aspiring Offensive Security Professional</a>
 
 <h2>👨‍💻 Network Engineering Homelab Projects:</h2>
 
