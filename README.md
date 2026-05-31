@@ -8,6 +8,16 @@
    - [Wireless Networking]
    - [Linux Administration]
    - [DHCP, DNS and NAT configuration]
+ 
+<h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
+
+- **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)**
+  - Installed and configured TShark.
+  - Captured and analyzed network traffic.
+  - Investigated DNS and TCP/IP communications.
+  - Applied packet filtering techniques.
+  - Monitored real-time client activity.
+  - Practiced SOC-style traffic analysis.
   
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
@@ -22,16 +32,6 @@
    - VPN Access Control Testing
 
 <h2>👨‍💻 Artificial Intelligence Penetration Testing Projects:</h2>
-
-<h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
-
-- **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)**
-  - Installed and configured TShark.
-  - Captured and analyzed network traffic.
-  - Investigated DNS and TCP/IP communications.
-  - Applied packet filtering techniques.
-  - Monitored real-time client activity.
-  - Practiced SOC-style traffic analysis.
 
 <h2>👨‍💻 Automation and Scripting:</h2>
 
