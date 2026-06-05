@@ -19,6 +19,8 @@ Every lab in this portfolio was manually built, configured, tested, and document
    - [Linux Administration]
    - [DHCP, DNS and NAT configuration]
  
+- **<b>[RaspAP Raspberry Pi Router WORKING WRITE UP](https://github.com/Kin3o/RaspAP-Walkthrough)**
+ 
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
 
 - **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)**
