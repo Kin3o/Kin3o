@@ -1,5 +1,15 @@
-<h1>Hi, I'm Kineo! <br/><a href="https://github.com/Kin3o"></a> <a href="https://www.linkedin.com/in/kineo-doody-0b1719245">Aspiring Offensive Security Professional</a>
+<h1>
+Hi, I'm Kineo! <br/>
+<a href="https://github.com/Kin3o"></a>
+<a href="https://www.linkedin.com/in/kineo-doody-0b1719245">Aspiring Offensive Security Professional</a>
+</h1>
 
+<p>
+<sub>
+Every lab in this portfolio was manually built, configured, tested, and documented by me. These write ups reflect my own hands-on work, technical troubleshooting, screenshots, command output, and lessons learned from each project. I do not use any LLM or "AI" to write these lab write ups for me!
+</sub>
+</p>
+   
 <h2>👨‍💻 Network Engineering Homelab Projects:</h2>
 
 - **<b>[Homebrew Raspberry Pi Router Lab](https://github.com/Kin3o/Raspberry-Pi-Router-Home-Lab)**
