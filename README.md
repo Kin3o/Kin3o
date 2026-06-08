@@ -12,10 +12,10 @@ Every lab in this portfolio was manually built, configured, tested, and document
    
 <h2>👨‍💻 Network Engineering Homelab Projects:</h2>
 
-- **<b>[Homebrew Raspberry Pi Router Lab](https://github.com/Kin3o/Raspberry-Pi-Router-Home-Lab)**
+- **<b>[Homebrew Raspberry Pi Router Lab I NEED TO FIX](https://github.com/Kin3o/Raspberry-Pi-Router-Home-Lab)**
    - [Creating WAP from Raspberry Pi 5 on Raspbian OS]
  
-- **<b>[RaspAP Raspberry Pi Router WORKING WRITE UP](https://github.com/Kin3o/RaspAP-Walkthrough)**
+- **<b>[RaspAP Raspberry Pi Router](https://github.com/Kin3o/RaspAP-Walkthrough)**
    - [Network Troubleshooting Steps]
    - [RaspAP OS configuration]
  
