@@ -14,12 +14,10 @@ Every lab in this portfolio was manually built, configured, tested, and document
 
 - **<b>[Homebrew Raspberry Pi Router Lab](https://github.com/Kin3o/Raspberry-Pi-Router-Home-Lab)**
    - [Creating WAP from Raspberry Pi 5 on Raspbian OS]
-   - [Network Troubleshooting]
-   - [Wireless Networking]
-   - [Linux Administration]
-   - [DHCP, DNS and NAT configuration]
  
 - **<b>[RaspAP Raspberry Pi Router WORKING WRITE UP](https://github.com/Kin3o/RaspAP-Walkthrough)**
+   - [Network Troubleshooting Steps]
+   - [RaspAP OS configuration]
  
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
 
