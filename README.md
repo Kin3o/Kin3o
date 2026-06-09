@@ -16,8 +16,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
    - [Creating WAP from Raspberry Pi 5 on Raspbian OS]
  
 - **<b>[RaspAP Raspberry Pi Router](https://github.com/Kin3o/RaspAP-Walkthrough)**
-   - [Network Troubleshooting Steps]
-   - [RaspAP OS configuration]
+   - [Web GUI and SSH Troubleshooting](https://github.com/Kin3o/RaspAP-Troubleshooting)**
  
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
 
