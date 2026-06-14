@@ -17,25 +17,11 @@ Every lab in this portfolio was manually built, configured, tested, and document
  
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
 
-- **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)**
-  - Installed and configured TShark.
-  - Captured and analyzed network traffic.
-  - Investigated DNS and TCP/IP communications.
-  - Applied packet filtering techniques.
-  - Monitored real-time client activity.
-  - Practiced SOC-style traffic analysis.
+- **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)** (SOC style packet analysis)
   
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
 - <b>[Custom Network Firewall (on Raspberry Pi Homebrew Router)]
-   - [Implementing Firewall controls on homebrew router]
-   - Nmap Firewall Evasion Testing
-   - Port Scan Detection Lab
-   - Denial-of-Service Mitigation Testing
-   - Firewall Rule Validation
-   - DNS Filtering Effectiveness Testing
-   - Internal Network Segmentation Testing
-   - VPN Access Control Testing
 
 <h2>👨‍💻 Artificial Intelligence Penetration Testing Projects:</h2>
 
@@ -49,18 +35,3 @@ Every lab in this portfolio was manually built, configured, tested, and document
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/kineo-doody-0b1719245
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
