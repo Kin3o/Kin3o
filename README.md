@@ -6,7 +6,7 @@ Hi, I'm Kineo! <br/>
 
 <p>
 <sub>
-Every lab in this portfolio was manually built, configured, tested, and documented by me. These write ups reflect my own hands-on work, technical troubleshooting, screenshots, command output, and lessons learned from each project. I do not use any LLM or "AI" to write these lab write ups for me!
+Every lab in this portfolio was manually built, configured, tested, and documented by me. These write ups reflect my own hands on work, on the job troubleshooting, screenshots, command output/input, and lessons learned from each project. I do not use any LLM or "AI" to write these lab write ups for me!
 </sub>
 </p>
    
@@ -25,10 +25,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
-- <b>[Custom Network Firewall (on Raspberry Pi Homebrew Router)]
-
-<h2>🎓 Certifications (with study labs):</h2>
-
+- <b>[(SIEM Packet Analyzer September 15, 2026)]
 
 <h2> 🤳 Connect with me:</h2>
 
