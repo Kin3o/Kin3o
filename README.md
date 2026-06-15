@@ -17,11 +17,11 @@ Every lab in this portfolio was manually built, configured, tested, and document
  
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
 
-- **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/AI-Smart-Note-Enhancer)** (SOC style packet analysis)
+- **<b>[Tshark Packet Analyzer Lab](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)** (SOC style packet analysis)
   
 <h2>👨‍💻LLM Productivity applications:</h2>
 
-- **<b>[Smart Note Enhancer](https://github.com/Kin3o/Tshark-Packet-Analyzer-Lab)** (AI enabled autonomous note enhancer with API key)
+- **<b>[Smart Note Enhancer](https://github.com/Kin3o/AI-Smart-Note-Enhancer)** (AI enabled autonomous note enhancer with API key)
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
