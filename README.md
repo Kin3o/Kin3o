@@ -22,6 +22,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 <h2>👨‍💻LLM Productivity applications:</h2>
 
 - **<b>[Smart Note Enhancer](https://github.com/Kin3o/AI-Smart-Note-Enhancer)** (AI enabled autonomous note enhancer with API key)
+- **<b>[Offline Note Taking Generator]** (AI prompted study notes I can read when underway on a ship in the USMC)
 
 <h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
 
