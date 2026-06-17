@@ -14,6 +14,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 
 - **<b>[RaspAP Raspberry Pi Router](https://github.com/Kin3o/RaspAP-Walkthrough)** (I got the idea from Season 3 Episode 3 of Mr Robot)
    - [Web GUI and SSH Troubleshooting](https://github.com/Kin3o/RaspAP-Troubleshooting)**
+   - [RaspAP extra utility configurations to the CIA Triad]
  
 <h2>👨‍💻 Digital Forensics Home Lab Projects:</h2>
 
