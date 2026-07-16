@@ -1,7 +1,7 @@
 <h1>
 Hi, I'm Kineo! <br/>
 <a href="https://github.com/Kin3o"></a>
-<a href="https://www.linkedin.com/in/kineo-doody-0b1719245">Aspiring Cybersecurity SOC Analyst</a>
+<a href="https://www.linkedin.com/in/kineo-doody-0b1719245">Cybersecurity SOC Analyst</a>
 </h1>
 
 <p>
