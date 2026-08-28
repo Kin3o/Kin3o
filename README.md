@@ -9,6 +9,10 @@ Hi, I'm Kineo! <br/>
 Every lab in this portfolio was manually built, configured, tested, and documented by me. These write ups reflect my own hands on work, on the job troubleshooting, screenshots, command output/input, and lessons learned from each project. I do not use any LLM or "AI" to write these lab write ups for me!
 </sub>
 </p>
+
+<h2>👨‍💻 Mini Server Rack:</h2>
+
+- <b>[(OPNsense Firewall August 31, 2026)]
    
 <h2>👨‍💻 Network Engineering Homelab Projects:</h2>
 
@@ -24,10 +28,6 @@ Every lab in this portfolio was manually built, configured, tested, and document
 
 - **<b>[Smart Note Enhancer](https://github.com/Kin3o/AI-Smart-Note-Enhancer)** (AI enabled autonomous note enhancer with API key)
 - **<b>[Offline Note Taking Generator]** (AI prompted study notes I can read when underway on a ship in the USMC)
-
-<h2>👨‍💻 Cybersecurity Home Lab Projects:</h2>
-
-- <b>[(SIEM Packet Analyzer September 15, 2026)]
 
 <h2> 🤳 Connect with me:</h2>
 
