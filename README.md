@@ -12,7 +12,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 
 <h2>👨‍💻 Mini Server Rack:</h2>
 
-- **<b>[OPNsense Firewall Home Lab](put the repository url here** 
+- **<b>[OPNsense Firewall Home Lab](https://github.com/Kin3o/OPNsense-Firewall-Home-Lab)** 
    
 <h2>👨‍💻 Network Engineering Homelab Projects:</h2>
 
