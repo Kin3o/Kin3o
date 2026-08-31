@@ -18,7 +18,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 - **<b>Proxmox Security Server November 30, 2026**
 - **<b>Proxmox Locally Hosted Services January 15, 2027**
    
-<h2>👨‍💻 Network Engineering Homelab Projects:</h2>
+<h2>👨‍💻 Raspberry Pi Homelab Projects:</h2>
 
 - **<b>[RaspAP Raspberry Pi Router](https://github.com/Kin3o/RaspAP-Home-Lab)** (I got the idea from Season 3 Episode 3 of Mr Robot)
  
