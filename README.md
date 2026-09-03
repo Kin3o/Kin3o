@@ -10,7 +10,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 </sub>
 </p>
 
-**<h2>[👨‍💻 Mini Server Rack](https://githubom/Kin3o/Custom-Mini-Server-Rack)</h2>**
+**<h2>[👨‍💻 Mini Server Rack](https://github.com/Kin3o/Custom-Mini-Server-Rack)</h2>**
 
 - **<b>[OPNsense Router/Firewall Home Lab CURENTLY IN PROGRESS!!!!!](https://github.com/Kin3o/OPNsense-Firewall-Home-Lab)**
 - **<b>Custom Designed 3d Printed Server Rack September 25, 2026**
