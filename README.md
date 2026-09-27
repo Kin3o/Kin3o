@@ -13,7 +13,7 @@ Every lab in this portfolio was manually built, configured, tested, and document
 **<h2>[👨‍💻 Mini Server Rack](https://github.com/Kin3o/Custom-Mini-Server-Rack)</h2>**
 
 - **<b>[OPNsense Router/Firewall Home Lab CURENTLY IN PROGRESS!!!!!](https://github.com/Kin3o/OPNsense-Firewall-Home-Lab)**
-- **<b>Proxmox Home Automation Oct 1, 2026**
+- **<b>Proxmox Home Automation Services Oct 1, 2026**
 - **<b>3d Printed Server Rack October 15, 2026**
 - **<b>Proxmox Locally Hosted Services November 30, 2026**
 - **<b>Proxmox Security Server January 15, 2027**
